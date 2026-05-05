@@ -218,6 +218,9 @@ print(f"Efficiency             = {Efficiency_sf:.2f}%")
 print("\nComparison Complete.")
 print("=" * 60)Write the program 
 ```
+
+
+
 # Calculation:
 <img width="931" height="1543" alt="image" src="https://github.com/user-attachments/assets/68bfa686-5623-4dc3-bc4c-f8c9dc917f19" />
 
