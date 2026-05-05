@@ -230,7 +230,9 @@ print("=" * 60)Write the program
 # Calculation:
 <img width="931" height="1543" alt="image" src="https://github.com/user-attachments/assets/68bfa686-5623-4dc3-bc4c-f8c9dc917f19" />
 
+
 <img width="995" height="1600" alt="image" src="https://github.com/user-attachments/assets/5241e421-7f99-4a58-9aa5-63451224eaa2" />
+
 
 <img width="744" height="1370" alt="image" src="https://github.com/user-attachments/assets/14932cf3-bf9c-4b73-97ae-8931af1b7e7c" />
 
@@ -239,9 +241,9 @@ print("=" * 60)Write the program
 
 
 
-
 # Output:
 <img width="664" height="751" alt="image" src="https://github.com/user-attachments/assets/1482a73e-6c55-44b0-b51a-e2ac13c2fefc" />
+
 <img width="622" height="509" alt="image" src="https://github.com/user-attachments/assets/aef99cb1-d47f-4521-93ee-7c5a81cde14b" />
 
 
