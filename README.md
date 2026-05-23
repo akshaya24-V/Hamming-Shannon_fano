@@ -15,6 +15,27 @@ Internet Connection
 Computer / Laptop
 
 ```
+# Theory:
+# Huffman Coding
+
+Huffman coding is a lossless data compression technique developed by David Huffman. It is used to reduce the number of bits required to represent data by assigning shorter binary codes to frequently occurring symbols and longer codes to less frequent symbols.
+
+In Huffman coding, a binary tree called the Huffman tree is constructed based on the probability or frequency of occurrence of symbols. Symbols with higher probability are placed closer to the root, resulting in shorter code words.
+
+Huffman coding provides efficient compression and minimizes the average code length. It is widely used in digital communication and data compression systems.
+
+---
+
+# Shannon-Fano Coding
+
+Shannon-Fano coding is a lossless data compression technique developed by Claude Shannon and Robert Fano. It is based on the probability of occurrence of symbols in a message.
+
+In Shannon-Fano coding, symbols are arranged in decreasing order of probability. The symbols are then divided into two groups with nearly equal probabilities. Binary digits are assigned recursively until each symbol gets a unique binary code.
+
+Symbols with higher probability receive shorter code words, while symbols with lower probability receive longer code words. Shannon-Fano coding reduces redundancy in transmitted data and improves transmission efficiency.
+
+Although Shannon-Fano coding is simpler, Huffman coding generally provides better compression efficiency.
+
 # Program:
 ```
 import math
